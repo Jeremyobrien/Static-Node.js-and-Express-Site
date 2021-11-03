@@ -3,45 +3,45 @@
         {
             "id": 0,
             "project_name": "Random Quote Generator", 
-            "decscription": "Inspiration is just a click away.",
+            "description": "Inspiration is just a click away.",
             "technologies": ["Vanilla JS"],
-            "live-link": "https://jeremyobrien.github.io/random-quote-generator/",
+            "live_link": "https://jeremyobrien.github.io/random-quote-generator/",
             "github_link": "https://github.com/Jeremyobrien/random-quote-generator",
             "image_urls": ["/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_random-quote-main.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_random-quote-other.png"]
         },
         {
             "id": 1,
             "project_name": "Data Pagination and Filtering", 
-            "decscription": "A student directory that dynamically changes depending on search input.",
+            "description": "A student directory that dynamically changes depending on search input.",
             "technologies": ["Vanilla JS"],
-            "live-link": "https://jeremyobrien.github.io/Data-Pagination-and-Filtering/",
+            "live_link": "https://jeremyobrien.github.io/Data-Pagination-and-Filtering/",
             "github_link": "https://github.com/Jeremyobrien/Data-Pagination-and-Filtering",
             "image_urls": ["/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_data-pagination-main.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_data-pagination-filtered.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_data-pagination-no-results.png"]
         },
         {
             "id": 2,
             "project_name": "Interactive Form", 
-            "decscription": "An interactive form programmed with Vanilla JS and built with accessibility in mind. We were not allowed to directly alter HTML or CSS to add functionality. The 'Email Address:' form field demonstrates real time validation and conditional error messaging. This functionality can be found between lines 176 and 187.",
+            "description": "An interactive form programmed with Vanilla JS and built with accessibility in mind. We were not allowed to directly alter HTML or CSS to add functionality. The 'Email Address:' form field demonstrates real time validation and conditional error messaging. This functionality can be found between lines 176 and 187.",
             "technologies": ["Vanilla JS"],
-            "live-link": "https://jeremyobrien.github.io/Interactive-Form/",
+            "live_link": "https://jeremyobrien.github.io/Interactive-Form/",
             "github_link": "https://github.com/Jeremyobrien/Interactive-Form",
             "image_urls": ["/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_int-form-main.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_int-form-tabauth.png", "/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_int-form-errors.png"]
         },
         {
             "id": 3,
             "project_name": "OOP Phrase Game", 
-            "decscription": "A phrase guessing game built with object-oriented programming principles. To add depth to the gameboard, I gave box-shadow effects to the 'key' and 'letter' classes.",
+            "description": "A phrase guessing game built with object-oriented programming principles. To add depth to the gameboard, I gave box-shadow effects to the 'key' and 'letter' classes.",
             "technologies": ["Vanilla JS"],
-            "live-link": "https://jeremyobrien.github.io/OOP-Phrase-Game/",
+            "live_link": "https://jeremyobrien.github.io/OOP-Phrase-Game/",
             "github_link": "https://github.com/Jeremyobrien/OOP-Phrase-Game",
             "image_urls": ["/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_phrase-hunter-main.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_phrase-hunter-midgame.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_phrase-hunter-loss.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_phrase-hunter-won.png"]
         },
         {
             "id": 4,
             "project_name": "Public API Requests Employee Directory", 
-            "decscription": "This is an employee directory that uses API requests to generate employee cards and modals. I implemented complimentary color combination to add more appealing background and h1 color.",
+            "description": "This is an employee directory that uses API requests to generate employee cards and modals. I implemented complimentary color combination to add more appealing background and h1 color.",
             "technologies": ["Vanilla JS"],
-            "live-link": "https://jeremyobrien.github.io/Public-API-Requests-Employee-Directory/",
+            "live_link": "https://jeremyobrien.github.io/Public-API-Requests-Employee-Directory/",
             "github_link": "https://github.com/Jeremyobrien/Public-API-Requests-Employee-Directory",
             "image_urls": ["/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_emp-dir-main.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_11emp-dir-filtered.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_emp-dir-modal.png", "/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_emp-dir-single-modal.png"]
         }

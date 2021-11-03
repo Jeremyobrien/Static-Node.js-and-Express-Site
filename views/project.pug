@@ -14,28 +14,30 @@ block content
         //- Use the info in your data file and the comments below to complete this template
 
         //- Use interpolation to dynamically add the project title
-        h1 Project Name
+        h1 #{projectName}
 
         //- Use interpolation to dynamically add the project description
-        p Description
+        p #{description}
 
       .project-tech-links-box.box
         h6 Technologies
-        ul
-
-          //- Use an `each` iterator and interpolation to dynamically replace the li tags below with the technologies listed for this project
-          li HTML
-          li CSS
-          li JavaScript
+        each tool in technologies
+          ul
+            li= tool
+             //- Use an `each` iterator and interpolation to dynamically replace the li tags below with the technologies listed for this project
+            
 
         //- Add the href values to the links below
-        a.btn-link(href='') Live Demo
-        a.btn-link(href='') GitHub Repo
+        a.btn-link(href=liveLink) Live Demo
+        a.btn-link(href=gitHubLink) GitHub Repo
 
     .project-img-box.box
 
       //- Replace the URLs in the src attributes below with interpolated template literals to dynamically add your project images, and add descriptions to the alt attributes
-      img.project-img(src='https://placehold.it/1200x550', alt='')
+
+      //-use middleware to interpolate images?
+
+      img.project-img(src='images/rsz_data-pagination-main.png', alt= 'main page of student directory')
       img.project-img(src='https://placehold.it/1200x550', alt='')
       img.project-img(src='https://placehold.it/1200x550', alt='')
 
