@@ -7,7 +7,7 @@
             "technologies": ["Vanilla JS"],
             "live_link": "https://jeremyobrien.github.io/random-quote-generator/",
             "github_link": "https://github.com/Jeremyobrien/random-quote-generator",
-            "image_urls": ["/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_random-quote-main.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_random-quote-other.png"]
+            "image_urls": ["static/images/random_quote/rsz_random-quote-main.png", "static/images/random_quote/rsz_random-quote-other.png"]
         },
         {
             "id": 1,
@@ -16,7 +16,7 @@
             "technologies": ["Vanilla JS"],
             "live_link": "https://jeremyobrien.github.io/Data-Pagination-and-Filtering/",
             "github_link": "https://github.com/Jeremyobrien/Data-Pagination-and-Filtering",
-            "image_urls": ["/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_data-pagination-main.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_data-pagination-filtered.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_data-pagination-no-results.png"]
+            "image_urls": ["static/images/student_dir/rsz_data-pagination-main.png", "static/images/student_dir/rsz_data-pagination-filtered.png", "static/images/student_dir/rsz_data-pagination-no-results.png"]
         },
         {
             "id": 2,
@@ -25,7 +25,7 @@
             "technologies": ["Vanilla JS"],
             "live_link": "https://jeremyobrien.github.io/Interactive-Form/",
             "github_link": "https://github.com/Jeremyobrien/Interactive-Form",
-            "image_urls": ["/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_int-form-main.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_int-form-tabauth.png", "/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_int-form-errors.png"]
+            "image_urls": ["static/images/interactive_form/rsz_int-form-main.png", "static/images/interactive_form/rsz_int-form-tabauth.png", "static/images/interactive_form/rsz_int-form-errors.png"]
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "technologies": ["Vanilla JS"],
             "live_link": "https://jeremyobrien.github.io/OOP-Phrase-Game/",
             "github_link": "https://github.com/Jeremyobrien/OOP-Phrase-Game",
-            "image_urls": ["/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_phrase-hunter-main.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_phrase-hunter-midgame.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_phrase-hunter-loss.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_phrase-hunter-won.png"]
+            "image_urls": ["static/images/phrase_hunter/rsz_phrase-hunter-main.png","static/images/phrase_hunter/rsz_phrase-hunter-midgame.png", "static/images/phrase_hunter/rsz_phrase-hunter-loss.png", "static/images/phrase_hunter/rsz_phrase-hunter-won.png"]
         },
         {
             "id": 4,
@@ -43,7 +43,7 @@
             "technologies": ["Vanilla JS"],
             "live_link": "https://jeremyobrien.github.io/Public-API-Requests-Employee-Directory/",
             "github_link": "https://github.com/Jeremyobrien/Public-API-Requests-Employee-Directory",
-            "image_urls": ["/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_emp-dir-main.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_11emp-dir-filtered.png","/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_emp-dir-modal.png", "/Users/jeremyobrien/Desktop/Code/Static-Node.js-and-Express-Site/images/rsz_emp-dir-single-modal.png"]
+            "image_urls": ["static/images/employee_dir/rsz_emp-dir-main.png", "public/images/employee_dir/rsz_11emp-dir-filtered.png", "static/images/employee_dir/rsz_emp-dir-modal.png", "static/images/employee_dir/rsz_emp-dir-single-modal.png"]
         }
     ]
 }
