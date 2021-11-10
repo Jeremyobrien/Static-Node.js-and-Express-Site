@@ -40,7 +40,7 @@
             "id": 4,
             "project_name": "Public API Requests Employee Directory", 
             "description": "This is an employee directory that uses API requests to generate employee cards and modals. I implemented complimentary color combination to add more appealing background and h1 color.",
-            "technologies": ["Vanilla JS"],
+            "technologies": ["Vanilla JS", "Git"],
             "live_link": "https://jeremyobrien.github.io/Public-API-Requests-Employee-Directory/",
             "github_link": "https://github.com/Jeremyobrien/Public-API-Requests-Employee-Directory",
             "image_urls": ["static/images/employee_dir/rsz_emp-dir-main.png", "public/images/employee_dir/rsz_11emp-dir-filtered.png", "static/images/employee_dir/rsz_emp-dir-modal.png", "static/images/employee_dir/rsz_emp-dir-single-modal.png"]
