@@ -28,8 +28,8 @@ block content
             
 
         //- Add the href values to the links below
-        a.btn-link(href=liveLink target='_blank') Live Demo
-        a.btn-link(href=gitHubLink target='_blank') GitHub Repo
+        a.btn-link(href=`${requestedProject.live_link}`, target='_blank') Live Demo
+        a.btn-link(href=`${requestedProject.github_link}` target='_blank') GitHub Repo
 
     .project-img-box.box
 

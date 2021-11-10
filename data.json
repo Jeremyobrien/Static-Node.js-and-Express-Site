@@ -7,7 +7,7 @@
             "technologies": ["Vanilla JS"],
             "live_link": "https://jeremyobrien.github.io/random-quote-generator/",
             "github_link": "https://github.com/Jeremyobrien/random-quote-generator",
-            "image_urls": ["static/images/random_quote/rsz_random-quote-main.png", "static/images/random_quote/rsz_random-quote-other.png"]
+            "image_urls": ["static/images/random_quote/rsz_random-quote-main.png", "static/images/random_quote/rsz_random-quote-other.png", "static/images/random_quote/rsz_quote-3.png"]
         },
         {
             "id": 1,
@@ -34,7 +34,7 @@
             "technologies": ["Vanilla JS"],
             "live_link": "https://jeremyobrien.github.io/OOP-Phrase-Game/",
             "github_link": "https://github.com/Jeremyobrien/OOP-Phrase-Game",
-            "image_urls": ["static/images/phrase_hunter/rsz_phrase-hunter-main.png","static/images/phrase_hunter/rsz_phrase-hunter-midgame.png", "static/images/phrase_hunter/rsz_phrase-hunter-loss.png", "static/images/phrase_hunter/rsz_phrase-hunter-won.png"]
+            "image_urls": ["static/images/phrase_hunter/rsz_phrase-hunter-main.png","static/images/phrase_hunter/rsz_phrase-hunter-midgame.png", "static/images/phrase_hunter/rsz_phrase-hunter-won.png"]
         },
         {
             "id": 4,
@@ -43,7 +43,7 @@
             "technologies": ["Vanilla JS", "Git"],
             "live_link": "https://jeremyobrien.github.io/Public-API-Requests-Employee-Directory/",
             "github_link": "https://github.com/Jeremyobrien/Public-API-Requests-Employee-Directory",
-            "image_urls": ["static/images/employee_dir/rsz_emp-dir-main.png", "public/images/employee_dir/rsz_11emp-dir-filtered.png", "static/images/employee_dir/rsz_emp-dir-modal.png", "static/images/employee_dir/rsz_emp-dir-single-modal.png"]
+            "image_urls": ["static/images/employee_dir/rsz_emp-dir-main.png", "static/images/employee_dir/rsz_11emp-dir-filtered.png", "static/images/employee_dir/rsz_emp-dir-modal.png"]
         }
     ]
 }
