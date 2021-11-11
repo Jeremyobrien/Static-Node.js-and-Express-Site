@@ -1,3 +1,4 @@
+//variables
 const express = require('express');
 const { projects } = require('./data.json');
 const app = express();
@@ -11,14 +12,16 @@ app.use('/static', express.static('public'));
 
 //homepage route
 app.get('/', (req, res) => {
-    res.render('index', { projects, project_route: `http://localhost:3000/project`});
+    res.render('index', { projects });
     res.end();
 });
 
+//about route
 app.get('/about', (req, res, next) =>{
     res.render('about');
 })
 
+//project route
 app.get('/project/:id', (req, res, next) => {
     const requestedProject = projects[req.params.id];
     if (requestedProject){
@@ -28,6 +31,7 @@ app.get('/project/:id', (req, res, next) => {
         }
     });
 
+//404 handler
 app.use((req, res, next)=>{
     const err =  new Error('Requested Page Not Found. Please try again.');
     err.status = 404;
@@ -39,6 +43,7 @@ app.use((req, res, next)=>{
     } 
 });
 
+//global handler
 app.use( (err, req, res, next) => {
     const error = err;
     res.status(err.status || 500);
@@ -50,6 +55,7 @@ app.use( (err, req, res, next) => {
     res.render('error', {error} );
 });
 
+//listener
 app.listen(3000, () => {
     console.log('The application is listening on localhost:3000');
 })

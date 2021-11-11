@@ -17,7 +17,7 @@ body {
 
 body {
   position: relative;
-  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Futura Now", Liber, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
@@ -266,6 +266,7 @@ nav a span {
 /* 
   About and project pages styles 
 */
+
 .about-intro-box p,
 .project-info-box p {
   font-size: 125%;
@@ -360,5 +361,8 @@ nav a span {
 
   .inner-wrapper {
     max-width: 1200px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+    transition: 0.6s;
   }
 }
+
