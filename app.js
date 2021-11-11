@@ -11,7 +11,7 @@ app.use('/static', express.static('public'));
 
 //homepage route
 app.get('/', (req, res) => {
-    res.render('index', { projects });
+    res.render('index', { projects, project_route: `http://localhost:3000/project`});
     res.end();
 });
 
