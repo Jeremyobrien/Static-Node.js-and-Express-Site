@@ -11,12 +11,12 @@ block content
     .inner-wrapper.flex-row-wrap.two-col
       .project-info-box.box
 
-        //- Use the info in your data file and the comments below to complete this template
+       
 
-        //- Use interpolation to dynamically add the project title
+      
         h1= requestedProject.project_name
 
-        //- Use interpolation to dynamically add the project description
+       
         p= requestedProject.description
 
       .project-tech-links-box.box
@@ -24,16 +24,16 @@ block content
         each tool in requestedProject.technologies
           ul
             li= tool
-             //- Use an `each` iterator and interpolation to dynamically replace the li tags below with the technologies listed for this project
+            
             
 
-        //- Add the href values to the links below
+ 
         a.btn-link(href=`${requestedProject.live_link}`, target='_blank') Live Demo
         a.btn-link(href=`${requestedProject.github_link}` target='_blank') GitHub Repo
 
     .project-img-box.box
 
-      //- Replace the URLs in the src attributes below with interpolated template literals to dynamically add your project images, and add descriptions to the alt attributes
+
       img.project-img(src=`http://localhost:3000/${requestedProject.image_urls[0]}`, alt= `${requestedProject.project_name}`)
       img.project-img(src=`http://localhost:3000/${requestedProject.image_urls[1]}`, alt= `${requestedProject.project_name}`)
       img.project-img(src=`http://localhost:3000/${requestedProject.image_urls[2]}`, alt= `${requestedProject.project_name}`)
