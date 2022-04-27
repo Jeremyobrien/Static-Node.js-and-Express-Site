@@ -8,6 +8,7 @@ In this project, I created a portfolio site to showcase my projects.  The site c
 *Used Pug to complete templates that utilize the JSON to generate the markup that is ultimately displayed in the browser.
 
 *Used Node.js and Express to:
+
   *Import the required dependencies
   *Link the JSON with the Pug templates
   *Set up routes to handle requests
