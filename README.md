@@ -10,10 +10,15 @@ In this project, I created a portfolio site to showcase my projects.  The site c
 *Used Node.js and Express to:
 
   *Import the required dependencies
+  
   *Link the JSON with the Pug templates
+  
   *Set up routes to handle requests
+  
   *Set up the middleware to utilize static files like CSS
+  
   *Handle errors
+  
   *Set up a server to serve the project
 
 This project helped me develop a comfortable working knowledge of Node.js, Express and Pug, setting up a server, handling requests, working with server-side JavaScript, and building a powerful and modern back end project. 
