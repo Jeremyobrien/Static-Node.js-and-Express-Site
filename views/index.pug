@@ -17,7 +17,7 @@ block content
   
       each project in projects
         .cell
-          a(href= `https://jeremys-portfolio-site.herokuapp.com//project/${project.id}`)
+          a(href= `https://jeremys-portfolio-site.herokuapp.com/project/${project.id}`)
             img.thumbnail(src= `${project.image_urls[0]}`, alt= `${project.project_name}`)
             h5= project.project_name
 
