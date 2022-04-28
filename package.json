@@ -20,9 +20,10 @@
   "bugs": {
     "url": "https://github.com/Jeremyobrien/Static-Node.js-and-Express-Site/issues"
   },
-  "homepage": "https://github.com/Jeremyobrien/Static-Node.js-and-Express-Site#readme",
+  "homepage": ".",
   "dependencies": {
     "express": "^4.17.1",
     "pug": "^3.0.2"
   }
 }
+https://github.com/Jeremyobrien/Static-Node.js-and-Express-Site#readme
